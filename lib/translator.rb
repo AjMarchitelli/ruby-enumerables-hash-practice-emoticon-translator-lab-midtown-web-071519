@@ -1,7 +1,4 @@
-# require modules here
 
-#not mine>>>> 
-#>>>
 require 'pry'
 require 'yaml'
 
@@ -14,8 +11,7 @@ def load_library(file_path)
   end
   result
 end
-#<<<<<<not mine
-#<<<< 
+
 
 def load_library
   # code goes here
